@@ -31,3 +31,8 @@ Bu proje sadece görsel/demo amaçlıdır, herhangi bir gerçek para veya bahis 
 1. Bu repoyu klonla veya zip olarak indir:
    ```bash
    git clone https://github.com/refo0/CandyBurst-Studio.git
+
+
+
+   <img width="450" height="861" alt="image" src="https://github.com/user-attachments/assets/e723ea5f-e61a-4cb6-9fa3-c593749ea106" />
+
